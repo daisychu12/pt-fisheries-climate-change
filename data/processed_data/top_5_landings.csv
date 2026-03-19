@@ -1,0 +1,136 @@
+"species_code","species_name","year","total_landings"
+"COD","Atlantic cod",1997,7533
+"COD","Atlantic cod",1998,5493
+"COD","Atlantic cod",1999,3885
+"COD","Atlantic cod",2000,3587
+"COD","Atlantic cod",2001,4028
+"COD","Atlantic cod",2002,3630
+"COD","Atlantic cod",2003,3628
+"COD","Atlantic cod",2004,4895
+"COD","Atlantic cod",2005,4316
+"COD","Atlantic cod",2006,20761.53
+"COD","Atlantic cod",2007,17367.03
+"COD","Atlantic cod",2008,16230.03
+"COD","Atlantic cod",2009,18719.03
+"COD","Atlantic cod",2010,18896
+"COD","Atlantic cod",2011,15173.46
+"COD","Atlantic cod",2012,16082.34
+"COD","Atlantic cod",2013,18648.88
+"COD","Atlantic cod",2014,7851.21
+"COD","Atlantic cod",2015,3627.85
+"COD","Atlantic cod",2016,15586.1
+"COD","Atlantic cod",2017,15452.15
+"COD","Atlantic cod",2018,10713.71
+"COD","Atlantic cod",2019,12836.97
+"COD","Atlantic cod",2020,18658.57
+"COD","Atlantic cod",2021,12948.98
+"COD","Atlantic cod",2022,14217.19
+"COD","Atlantic cod",2023,0
+"HOM","Atlantic horse mackerel",1997,18720
+"HOM","Atlantic horse mackerel",1998,21364
+"HOM","Atlantic horse mackerel",1999,14524
+"HOM","Atlantic horse mackerel",2000,14362
+"HOM","Atlantic horse mackerel",2001,13796
+"HOM","Atlantic horse mackerel",2002,15009
+"HOM","Atlantic horse mackerel",2003,14726
+"HOM","Atlantic horse mackerel",2004,16680
+"HOM","Atlantic horse mackerel",2005,15970
+"HOM","Atlantic horse mackerel",2006,51967.1
+"HOM","Atlantic horse mackerel",2007,34743
+"HOM","Atlantic horse mackerel",2008,33078
+"HOM","Atlantic horse mackerel",2009,35520
+"HOM","Atlantic horse mackerel",2010,37260
+"HOM","Atlantic horse mackerel",2011,33782.44
+"HOM","Atlantic horse mackerel",2012,63404.89
+"HOM","Atlantic horse mackerel",2013,57536.42
+"HOM","Atlantic horse mackerel",2014,63725.14
+"HOM","Atlantic horse mackerel",2015,68242.35
+"HOM","Atlantic horse mackerel",2016,4791.44
+"HOM","Atlantic horse mackerel",2017,64006.48
+"HOM","Atlantic horse mackerel",2018,47234.145
+"HOM","Atlantic horse mackerel",2019,50317.5928
+"HOM","Atlantic horse mackerel",2020,41807.85
+"HOM","Atlantic horse mackerel",2021,48098.84
+"HOM","Atlantic horse mackerel",2022,52813.7181
+"HOM","Atlantic horse mackerel",2023,32814.66
+"JAA","Blue jack mackerel",1997,2752
+"JAA","Blue jack mackerel",1998,2028
+"JAA","Blue jack mackerel",1999,1010
+"JAA","Blue jack mackerel",2000,1110
+"JAA","Blue jack mackerel",2001,1509
+"JAA","Blue jack mackerel",2002,5675
+"JAA","Blue jack mackerel",2003,4013
+"JAA","Blue jack mackerel",2004,4076
+"JAA","Blue jack mackerel",2005,2357
+"JAA","Blue jack mackerel",2006,12574.3
+"JAA","Blue jack mackerel",2007,16538.04
+"JAA","Blue jack mackerel",2008,19255.04
+"JAA","Blue jack mackerel",2009,19561
+"JAA","Blue jack mackerel",2010,14121
+"JAA","Blue jack mackerel",2011,16046.19
+"JAA","Blue jack mackerel",2012,0
+"JAA","Blue jack mackerel",2013,10365.78
+"JAA","Blue jack mackerel",2014,10615.73
+"JAA","Blue jack mackerel",2015,10645.92
+"JAA","Blue jack mackerel",2016,84651.34
+"JAA","Blue jack mackerel",2017,13890.31
+"JAA","Blue jack mackerel",2018,12542.097
+"JAA","Blue jack mackerel",2019,11597.711
+"JAA","Blue jack mackerel",2020,10942.99
+"JAA","Blue jack mackerel",2021,18595.31
+"JAA","Blue jack mackerel",2022,9027.8732
+"JAA","Blue jack mackerel",2023,5585.08
+"OCC","Common octopus",1997,63
+"OCC","Common octopus",1998,38
+"OCC","Common octopus",1999,12
+"OCC","Common octopus",2000,624
+"OCC","Common octopus",2001,823
+"OCC","Common octopus",2002,660
+"OCC","Common octopus",2003,1310
+"OCC","Common octopus",2004,692
+"OCC","Common octopus",2005,3495
+"OCC","Common octopus",2006,11857.83
+"OCC","Common octopus",2007,16761.03
+"OCC","Common octopus",2008,27494.03
+"OCC","Common octopus",2009,20166
+"OCC","Common octopus",2010,31362
+"OCC","Common octopus",2011,21603.99
+"OCC","Common octopus",2012,27825.83
+"OCC","Common octopus",2013,34563.99
+"OCC","Common octopus",2014,32847.28
+"OCC","Common octopus",2015,22633.68
+"OCC","Common octopus",2016,29028.81
+"OCC","Common octopus",2017,16050.45
+"OCC","Common octopus",2018,18240.45
+"OCC","Common octopus",2019,15779.06
+"OCC","Common octopus",2020,14271.52
+"OCC","Common octopus",2021,19760.45
+"OCC","Common octopus",2022,21516.56
+"OCC","Common octopus",2023,5886.4
+"PIL","European pilchard(=Sardine)",1997,81475
+"PIL","European pilchard(=Sardine)",1998,82985
+"PIL","European pilchard(=Sardine)",1999,71955
+"PIL","European pilchard(=Sardine)",2000,66283
+"PIL","European pilchard(=Sardine)",2001,71907
+"PIL","European pilchard(=Sardine)",2002,68739
+"PIL","European pilchard(=Sardine)",2003,66605
+"PIL","European pilchard(=Sardine)",2004,75890
+"PIL","European pilchard(=Sardine)",2005,74361
+"PIL","European pilchard(=Sardine)",2006,222338.1
+"PIL","European pilchard(=Sardine)",2007,273534.04
+"PIL","European pilchard(=Sardine)",2008,213198
+"PIL","European pilchard(=Sardine)",2009,182822
+"PIL","European pilchard(=Sardine)",2010,191277
+"PIL","European pilchard(=Sardine)",2011,171865.19
+"PIL","European pilchard(=Sardine)",2012,97005.48
+"PIL","European pilchard(=Sardine)",2013,83202.54
+"PIL","European pilchard(=Sardine)",2014,48379.1
+"PIL","European pilchard(=Sardine)",2015,41795.27
+"PIL","European pilchard(=Sardine)",2016,41199.65
+"PIL","European pilchard(=Sardine)",2017,44933.82
+"PIL","European pilchard(=Sardine)",2018,29791.43
+"PIL","European pilchard(=Sardine)",2019,30718.76
+"PIL","European pilchard(=Sardine)",2020,48203.97
+"PIL","European pilchard(=Sardine)",2021,84084.75
+"PIL","European pilchard(=Sardine)",2022,76569.12
+"PIL","European pilchard(=Sardine)",2023,78774.52
