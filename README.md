@@ -24,16 +24,23 @@ If climate change is already impacting fish landings numbers, stricter monitorin
 ## Data Sources
 **Fish Landings Datasets**
 
-Data source:
+The fish catch data across 1997 to 2023 were obtained through the International Council for the Exploration of the Seas (ICES). The datasets include information on the country responsible, catch region, species name, and number of landings in tonnes. The data is split across three different time periods (1903-1949, 1950-2010, 2006-2023).
+
+Data source: [ICES CIEM](https://www.ices.dk/data/dataset-collections/Pages/Fish-catch-and-stock-assessment.aspx)
 
 **Northeast Atlantic Sea Surface Temperature Data**
 
-Data source:
+The sea surface temperature that spans Portugal's coast was obtained through the European Environment Agency which has maximum and minimum sea surface temperatures for the Northeast Atlantic Ocean. For this simplicity, I've only chosen to use maximum surface temperature as an independent variable.
+
+Data source: [European Environment Agency](https://www.eea.europa.eu/en/analysis/indicators/european-sea-surface-temperature?activeAccordion=309c5ef9-de09-4759-bc02-802370dfa366)
 
 **Annual Fish Price Data**
 
-Data source:
-Example PDF:
+Annual fish price data (euros/kg) from 2011 to 2024 was obtained from Statistics Portugal's Annual Fishery Statistics Report. I manually scrolled through each pdf document and recorded the annual fish price stated for that year's report. The reports seemingly start reporting this number from 2011 onwards.  
+
+Data source: [Statistics Portugal's](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_pesquisa&frm_accao=PESQUISAR&frm_show_page_num=1&frm_modo_pesquisa=PESQUISA_SIMPLES&frm_texto=Anu%C3%A1rio+estat%C3%ADstico+de+Portugal&frm_modo_texto=MODO_TEXTO_ALL&frm_data_ini=&frm_data_fim=&frm_tema=QUALQUER_TEMA&frm_area=o_ine_area_Publicacoes&xlang=en) Annual Fishery Statistics Report
+
+Example PDF: [Portugal Fishery Statistics 2023](https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=669999694&att_display=n&att_download=y)
 
 ## Process
 - Clean fish landings datasets
