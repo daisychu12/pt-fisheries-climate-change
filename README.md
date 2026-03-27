@@ -3,7 +3,7 @@
 This repo contains data and analysis for a capstone project analyzing whether climate change is impacting Portugal's fishing industry. 
 
 ## Project Summary
-Using fish catch, ocean surface temperature, and fish price data, I examined whether there is a relationship between fish landings and temperature. I found that impact of landings and vulnerability to climate change is species dependent, but 4 out of the 5 species studied show a significant relationship with rising maximum sea temperatures. 
+Using fish catch, ocean surface temperature, and fish price data, I examined whether there is a relationship between Portugal fish landings and temperature. I found that impact of landings and vulnerability to climate change is species dependent, but 4 out of the 5 species studied show a significant relationship with rising maximum sea temperatures. 
 
 
 ## Project Question
