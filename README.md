@@ -3,7 +3,7 @@
 This repo contains data and analysis for a capstone project analyzing whether climate change is impacting Portugal's fishing industry. 
 
 ## Project Summary
-Using fish catch, ocean surface temperature, and fish price data, I examined whether there is a relationship between Portugal fish landings and temperature. I found that impact of landings and vulnerability to climate change is species dependent, but 4 out of the 5 species studied show a significant relationship with rising maximum sea temperatures. 
+Using fish catch, ocean surface temperature, and fish price data, I examined whether there is a relationship between Portugal fish landings and temperature. I found that the impact of landings and vulnerability to climate change is species dependent, but 4 out of the 5 species studied show a significant relationship with rising maximum sea temperatures.  
 
 
 ## Project Question
@@ -12,7 +12,8 @@ Using fish catch, ocean surface temperature, and fish price data, I examined whe
 
 ## Project Rationale
 **The problem I'm trying to address:**
-Decades of overfishing have led many fisheries to collapse across the globe. For Portugal, on top of the economic strain due to drop in fish species populations, species like sardine have started to be observed moving towards cooler waters due to climate change.
+Portugal has the largest exclusive economic zone in the EU and the highest per capita fish consumption in Europe. Decades of overfishing have led many fisheries to collapse across the globe. For Portugal, on top of the economic strain due to drop in fish species populations, species like sardine have started to be observed moving towards cooler waters due to climate change.
+
 
 **Audience of interest:** 
 Portugal's policymakers, marine scientists, and data scientists.
@@ -67,7 +68,8 @@ pt-fisheries-climate-change/
 │   ├── processed_data/    # Cleaned datasets
 │   ├── raw_data/          # Original, untouched data
 │   └── README.md          # Data folder overview
-├── outputs/               # Slides, reports, presentations
+├── outputs/               # Slides, visualizations
+│   └── visualizations/    # Downloaded visualizations
 │   └── README.md          # Scripts folder overview
 └── README.md              # Project overview
 ```
